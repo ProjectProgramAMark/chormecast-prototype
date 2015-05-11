@@ -9,7 +9,7 @@ function onClick(e) {
 	
 	
 	var videoPlayer = Titanium.Media.createVideoPlayer({
-	    url: '/assets/OST.mp4',
+	    url: 'OST.mp4',
 	    backgroundColor: '#000',
 	    fullscreen:true,
 	    scalingMode: Titanium.Media.VIDEO_SCALING_ASPECT_FIT,

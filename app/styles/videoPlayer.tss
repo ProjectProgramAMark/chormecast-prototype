@@ -2,7 +2,7 @@
 	backgroundColor:"white"
 }
 "#label": {
-	
+	margin: "10dp",
 }
 "Button": {
 	color: "red",
