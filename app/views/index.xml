@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+		  <VideoPlayer id="videoPlayer" ns="Ti.Media" top="2" url="http://download.wavetlan.com/SVV/Media/HTTP/MP4/ConvertedFiles/RoxioMediaManager/RoxioMediaManager_test8_3m27s_MPEG4ASP_CBR_762kbps_320x240_24fps_AACLC_CBR_128kbps_Stereo_44100Hz.mp4" height="300" width="300" backgroundColor="blue" autoplay="true" />
 	</Window>
 </Alloy>

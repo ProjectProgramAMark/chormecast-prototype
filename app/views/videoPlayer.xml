@@ -1,6 +1,5 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label">Hello!</Label>
-		<Button onClick="onClick">Click!</Button>
+	<Window id="window" class="container">
+		  <VideoPlayer id="videoPlayer" ns="Ti.Media" top="2" url="/OST.mp4" height="300" width="300" backgroundColor="blue" autoplay="true" />
 	</Window>
 </Alloy>
